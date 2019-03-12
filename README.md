@@ -36,7 +36,7 @@ Output:
 
 ## Requirements
 
-- Elixir 2.7 or greater
+- Python 2.7 or greater
 
 
 
